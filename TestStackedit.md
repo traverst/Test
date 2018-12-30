@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # TestHeader
 
 ## You can just type in the formatting it seems...
@@ -18,5 +14,5 @@ _update_
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzI2MzMxMl19
+eyJoaXN0b3J5IjpbODI1NzExNjc3LDEzMjcyNjMzMTJdfQ==
 -->
