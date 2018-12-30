@@ -1,21 +1,22 @@
----
-
 
 ---
+layout: default
+---
 
-<h1 id="testheader">TestHeader</h1>
-<h2 id="you-can-just-type-in-the-formatting-it-seems...">You can just type in the formatting it seems…</h2>
-<h3 id="you-just-need-to-make-sure-the-is-the-correct-spacing.">you just need to make sure the is the correct spacing.</h3>
-<p><strong>or not as the case maybe</strong></p>
-<ul>
-<li>point form</li>
-<li>more points<br>
-<em>updated</em></li>
-</ul>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+# TestHeader
 
+## You can just type in the formatting it seems...
+
+### you just need to make sure the is the correct spacing.
+
+**or not as the case maybe**
+* point form
+* more points
+_update_ 
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDMwMzkzMV19
+eyJoaXN0b3J5IjpbMTMyNzI2MzMxMl19
 -->
