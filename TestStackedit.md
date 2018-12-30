@@ -10,12 +10,12 @@
 <ul>
 <li>point form</li>
 <li>more points<br>
-<em>update</em></li>
+<em>updated</em></li>
 </ul>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMzQzOTgzXX0=
+eyJoaXN0b3J5IjpbMTk5NDMwMzkzMV19
 -->
