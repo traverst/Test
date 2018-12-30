@@ -9,7 +9,8 @@
 <p><strong>or not as the case maybe</strong></p>
 <ul>
 <li>point form</li>
-<li>more points</li>
+<li>more points<br>
+<em>update</em></li>
 </ul>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
