@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/traverst/Test/edit/master/TestStackedit.md) and ![Image](src)
 ```
+[Link](https://github.com/traverst/Test/edit/master/TestStackedit.md) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
